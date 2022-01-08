@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Angular, Devops, full stack**
 
-- 📫 How to reach me **john@korhel.net**
+- 📫 Reach me at **john@korhel.net**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mwvA3EqWq3091d6Vb0JtkZenvK2PaAXo/view?usp=sharing](https://drive.google.com/file/d/1mwvA3EqWq3091d6Vb0JtkZenvK2PaAXo/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1mwvA3EqWq3091d6Vb0JtkZenvK2PaAXo/view?usp=sharing](https://drive.google.com/file/d/1mwvA3EqWq3091d6Vb0JtkZenvK2PaAXo/view?usp=sharing)
 
 - ⚡ Fun fact **I'm trying to climb all 58 14ers in Colorado**
 
