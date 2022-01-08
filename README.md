@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Korhel</h1>
 <h3 align="center">A Full Stack Engineer @ Lockheed Martin and Full Time Student @ CU Boulder (2023)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnkorheledu&label=Profile%20views&color=0e75b6&style=flat" alt="johnkorheledu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnkorheledu" alt="johnkorheledu" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://korhel.net/](https://korhel.net/)
 
 - 💬 Ask me about **Angular, Devops, full stack**
