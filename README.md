@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **john@korhel.net**
 
-- 📄 Resume [https://drive.google.com/file/d/1mwvA3EqWq3091d6Vb0JtkZenvK2PaAXo/view?usp=sharing](https://drive.google.com/file/d/1mwvA3EqWq3091d6Vb0JtkZenvK2PaAXo/view?usp=sharing)
+- 📄 View my experience [Resume](https://tinyurl.com/mr2bm4hn)
 
 - ⚡ Fun fact **I'm trying to climb all 58 14ers in Colorado**
 
