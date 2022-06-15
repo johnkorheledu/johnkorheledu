@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Korhel</h1>
-<h3 align="center">A Full Stack Engineer @ Lockheed Martin and Full Time Student @ CU Boulder (2023)</h3>
+<h3 align="center">A Full Stack Engineer @ Autodesk and Full Time Student @ CU Boulder (2023)</h3>
 
 - 👨‍💻 All of my projects are available at [https://korhel.net/](https://korhel.net/)
 
